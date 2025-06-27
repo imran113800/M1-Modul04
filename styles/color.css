@@ -1,0 +1,13 @@
+.blogs-this:hover{
+    background-color: blue;
+}
+.submit:hover {
+    background-color: yellow;
+    
+}
+.submit {
+    width: 50%;
+    height: 100%;
+}
+
+}
